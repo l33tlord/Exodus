@@ -1,9 +1,6 @@
 # ⚠️ Disclaimer
 We are not responsible for any harm caused with this code.
 
-# 💣 Exodus
-Exodus uses a beginner-friendly UI powered by tkinter.
-
 # 📖 Open-Source
 The source code will not be obfuscated and will be open source. You can read the source by editing the exodus.pyw file!
 

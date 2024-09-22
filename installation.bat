@@ -1,2 +1,2 @@
 pip install customtkinter
-pip install discord.py
+pip install discord
